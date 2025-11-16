@@ -2,7 +2,7 @@
 ***Skill Development Certificates***
 Certifications acquired during Bachelors of Engineering - Computer Science: with honors in Data Science
 
-## IBM - Data Science Professional Certificate Course
+## IBM - Data Science Professional Certificate
 ### Completed at Coursera: 
 [Check Valid Certificate here:](https://www.coursera.org/account/accomplishments/professional-cert/DHP0L76O9OSO) or individual Certificate below:
 
@@ -29,6 +29,16 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 [11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
 
 [12) IBM Data Science Professional Certification](https://github.com/keyadobriyal/Certifications/blob/main/12-Coursera-IBM-Data-Science-Professional-Certificate-DHP0L76O9OSO.pdf)
+
+## Michigan University - Statistics with Python Specialization
+### Completed at Coursera: 
+
+
+[1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/Coursera-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
+
+[2) Inferential Statistical Analysis using Python](https://github.com/keyadobriyal/Certifications/blob/main/Coursera-Inferential-Statistical-Analysis-using-Python-YMTJYQORGUI4.pdf)
+
+[3) Fitting Statistical Models to Data with Python] - under progress
 
 ## Certification from Udemy
 
