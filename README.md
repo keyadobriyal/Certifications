@@ -31,7 +31,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 [12) IBM Data Science Professional Certification](https://github.com/keyadobriyal/Certifications/blob/main/12-Coursera-IBM-Data-Science-Professional-Certificate-DHP0L76O9OSO.pdf)
 
 ## Michigan University - Statistics with Python Specialization
-### Completed at Coursera: 
+### Currently acquiring knowledge at Coursera: 
 
 
 [1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/Coursera-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
