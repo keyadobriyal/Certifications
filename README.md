@@ -4,6 +4,8 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 ## IBM - Data Science Professional Certificate
 ### Completed at Coursera: 
+<img width="721" height="554" alt="12-IBM-Data-Science-Professional_Certificate" src="https://github.com/user-attachments/assets/5880d7ae-3492-49b6-b512-10cfc322c4d3" />
+
 [Check Valid Certificate here:](https://www.coursera.org/account/accomplishments/professional-cert/DHP0L76O9OSO) or individual Certificate below:
 
 [1) What is Data Science?](https://github.com/keyadobriyal/Certifications/blob/main/01-Coursera-What%20is%20Data-Science-2OJKTYP6445U.pdf) 
