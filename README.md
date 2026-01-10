@@ -6,11 +6,11 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 <img width="721" height="554" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
 
-     [1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
+[1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
 
-     [2) Inferential Statistical Analysis using Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/02-Inferential-Statistical-Analysis-using-Python-YMTJYQORGUI4.pdf)
+[2) Inferential Statistical Analysis using Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/02-Inferential-Statistical-Analysis-using-Python-YMTJYQORGUI4.pdf)
 
-     [3) Fitting Statistical Models to Data with Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/03-Fitting-Statistical-Model-with-python-EROD4DRU1RUK.pdf)
+[3) Fitting Statistical Models to Data with Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/03-Fitting-Statistical-Model-with-python-EROD4DRU1RUK.pdf)
 
 ## IBM - Data Science Professional Certificate
 ### Completed at Coursera: 
@@ -18,11 +18,11 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [Validated Certificate here:](https://www.coursera.org/account/accomplishments/professional-cert/DHP0L76O9OSO) or individual Certificate below:
 
-     [1) What is Data Science?](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/01-Coursera-What%20is%20Data-Science-2OJKTYP6445U.pdf) 
+[1) What is Data Science?](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/01-Coursera-What%20is%20Data-Science-2OJKTYP6445U.pdf) 
 
-     [2) Tools for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/02-Coursera-Tools-for-Data-Science-GRPVZ9PEICBL.pdf)
+[2) Tools for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/02-Coursera-Tools-for-Data-Science-GRPVZ9PEICBL.pdf)
 
-     [3) Data Science Methodology](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/03-Coursera-Data-Science-Methodology-YV4Y0COIHDLR.pdf)
+[3) Data Science Methodology](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/03-Coursera-Data-Science-Methodology-YV4Y0COIHDLR.pdf)
 
      [4) Python for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/04-Coursera-Python-for-DS-AI-MT73JY45T7DU.pdf)
 
