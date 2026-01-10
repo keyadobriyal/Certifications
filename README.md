@@ -3,7 +3,6 @@
 Certifications acquired during Bachelors of Engineering - Computer Science: with honors in Data Science
 
 ## Michigan University - Statistics with Python Specialization
-### Currently acquiring knowledge at Coursera: 
 
 <img width="721" height="554" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
 
@@ -42,7 +41,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
      [11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
 
 ## IBM Machine Learning Professional Certificate
-<img width="1392" height="1084" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
+<img width="721" height="554" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
      [1) Exploratory Data Analysis for Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/01-EDA-for-ML-Coursera%20Z43XI7XH3PI4.pdf)
 
      [2) Supervised Machine Learning: Regression](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/02-Supervised_ML_Regression_Coursera%20U0338Q5SS4JT.pdf)
