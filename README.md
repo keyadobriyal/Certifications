@@ -24,35 +24,36 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [3) Data Science Methodology](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/03-Coursera-Data-Science-Methodology-YV4Y0COIHDLR.pdf)
 
-     [4) Python for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/04-Coursera-Python-for-DS-AI-MT73JY45T7DU.pdf)
+[4) Python for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/04-Coursera-Python-for-DS-AI-MT73JY45T7DU.pdf)
 
-     [5) Python Project for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/05-Coursera-Python-Project-for-Data-Science%3DE1HQOBBG299O.pdf)
+[5) Python Project for Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/05-Coursera-Python-Project-for-Data-Science%3DE1HQOBBG299O.pdf)
 
-     [6) Database and SQL for Data Science with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/06-Coursera-Databases-SQL-for-Data-Science-with-Python-C9VA8MEQFKJ7.pdf)
+[6) Database and SQL for Data Science with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/06-Coursera-Databases-SQL-for-Data-Science-with-Python-C9VA8MEQFKJ7.pdf)
 
-     [7) Data Analysis with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/07-Coursera-Data-Analysis-with-Python-ZH9D540HEO7R.pdf)
+[7) Data Analysis with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/07-Coursera-Data-Analysis-with-Python-ZH9D540HEO7R.pdf)
 
-     [8) Data Visualization with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/08-Coursera-Data-Visualization-with-Python-XAIR280QS74E.pdf)
+[8) Data Visualization with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/08-Coursera-Data-Visualization-with-Python-XAIR280QS74E.pdf)
 
-     [9) Machine Learning with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/09-Coursera-Machine-Learning-with-Python-PDUI9KSKCMBY.pdf)
+[9) Machine Learning with Python](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/09-Coursera-Machine-Learning-with-Python-PDUI9KSKCMBY.pdf)
 
-     [10) Applied Data Science Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/10-Coursera-Applied-Data-Science-Capstone-BUEVSMG74TVQ.pdf)
+[10) Applied Data Science Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/10-Coursera-Applied-Data-Science-Capstone-BUEVSMG74TVQ.pdf)
 
-     [11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
+[11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
 
 ## IBM Machine Learning Professional Certificate
 <img width="721" height="554" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
-     [1) Exploratory Data Analysis for Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/01-EDA-for-ML-Coursera%20Z43XI7XH3PI4.pdf)
 
-     [2) Supervised Machine Learning: Regression](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/02-Supervised_ML_Regression_Coursera%20U0338Q5SS4JT.pdf)
+[1) Exploratory Data Analysis for Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/01-EDA-for-ML-Coursera%20Z43XI7XH3PI4.pdf)
 
-     [3) Supervised Machine Learning: Classification](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/03-Supervised_ML_Classification_Coursera%20UMO72327YLFP.pdf)
+[2) Supervised Machine Learning: Regression](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/02-Supervised_ML_Regression_Coursera%20U0338Q5SS4JT.pdf)
 
-     [4) Unsupervised Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/03-Supervised_ML_Classification_Coursera%20UMO72327YLFP.pdf)
+[3) Supervised Machine Learning: Classification](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/03-Supervised_ML_Classification_Coursera%20UMO72327YLFP.pdf)
 
-     [5) Deep Learning and Reinforcement Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/05-DeepLearning_ReinforcementLearning_Coursera%20O70O7K3WUE2Z.pdf)
+[4) Unsupervised Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/03-Supervised_ML_Classification_Coursera%20UMO72327YLFP.pdf)
 
-     [6) Machine Learning Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/06-Capstone-Project-Coursera%20VXP4INLGZ2PD.pdf)
+[5) Deep Learning and Reinforcement Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/05-DeepLearning_ReinforcementLearning_Coursera%20O70O7K3WUE2Z.pdf)
+
+[6) Machine Learning Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/06-Capstone-Project-Coursera%20VXP4INLGZ2PD.pdf)
 
 
 ## Certification from Udemy
