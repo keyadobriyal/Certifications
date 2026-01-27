@@ -4,7 +4,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 ## Michigan University - Statistics with Python Specialization
 
-<img width="640" height="480" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
+<img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
 
 [1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
 
@@ -14,7 +14,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 ## IBM - Data Science Professional Certificate
 ### Completed at Coursera: 
-<img width="640" height="480" alt="12-IBM-Data-Science-Professional_Certificate" src="https://github.com/user-attachments/assets/5880d7ae-3492-49b6-b512-10cfc322c4d3" />
+<img width="540" height="420" alt="12-IBM-Data-Science-Professional_Certificate" src="https://github.com/user-attachments/assets/5880d7ae-3492-49b6-b512-10cfc322c4d3" />
 
 [Validated Certificate here:](https://www.coursera.org/account/accomplishments/professional-cert/DHP0L76O9OSO) or individual Certificate below:
 
@@ -39,6 +39,11 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 [10) Applied Data Science Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/10-Coursera-Applied-Data-Science-Capstone-BUEVSMG74TVQ.pdf)
 
 [11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
+
+## IBM Machine Learning Professional Certificate
+
+<img width="540" height="420" alt="12_Data_Analyst_Professional_Certificate" src="https://github.com/user-attachments/assets/4a55bc48-5f7b-4fbe-9d2f-8285fe1760cb" />
+
 
 ## IBM Machine Learning Professional Certificate
 <img width="640" height="480" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
