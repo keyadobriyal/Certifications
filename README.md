@@ -40,13 +40,24 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
 
-## IBM Machine Learning Professional Certificate
+## IBM Data Analytics Professional Certificate
 
 <img width="540" height="420" alt="12_Data_Analyst_Professional_Certificate" src="https://github.com/user-attachments/assets/4a55bc48-5f7b-4fbe-9d2f-8285fe1760cb" />
 
+[1) Introduction to Data Analytics](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/01-Introduction_to_Data_Analytics_Coursera%2032Z5QVVU2SAS.pdf)
+
+[2) Excel Basics for Data Analytics](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/02-Excel_Basics_for_data_analytics_Coursera%20X50DGBKYLOKW.pdf)
+
+[3) Data Visualiation with Dash Board using Excel and Cognos](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/03_Visualization_Dashboard_Excel_Cognos_Coursera%20QMP89438HR9M.pdf)
+
+***Courses 4 thru 8 are covered in IBM Data Science Professional Certificate***
+
+[9) IBM Data Analyst Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/09_Capstone_Project_Coursera%20PTMIU4BX6WEM.pdf)
+
+[10) Generative AI](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/10_Generative_AI-DataAnalytics_Coursera%20MZTROOLB4YIF.pdf)
 
 ## IBM Machine Learning Professional Certificate
-<img width="640" height="480" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
+<img width="540" height="420" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
 
 [1) Exploratory Data Analysis for Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/01-EDA-for-ML-Coursera%20Z43XI7XH3PI4.pdf)
 
