@@ -2,19 +2,21 @@
 ***Skill Development Certificates***
 Certifications acquired during Bachelors of Engineering - Computer Science: with honors in Data Science
 
-## Michigan University - Statistics with Python Specialization
+| --- | --- |
+| Certification | Learning Partner |
+| --- | --- |
+| ## Michigan University - Statistics with Python Specialization | Coursera |
 
-<img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
+| <img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" /> | 
 
 [1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
 
 [2) Inferential Statistical Analysis using Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/02-Inferential-Statistical-Analysis-using-Python-YMTJYQORGUI4.pdf)
 
-[3) Fitting Statistical Models to Data with Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/03-Fitting-Statistical-Model-with-python-EROD4DRU1RUK.pdf)
+[3) Fitting Statistical Models to Data with Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/03-Fitting-Statistical-Model-with-python-EROD4DRU1RUK.pdf) |
 
-## IBM - Data Science Professional Certificate
-### Completed at Coursera: 
-<img width="540" height="420" alt="12-IBM-Data-Science-Professional_Certificate" src="https://github.com/user-attachments/assets/5880d7ae-3492-49b6-b512-10cfc322c4d3" />
+| ## IBM - Data Science Professional Certificate | Coursera: |
+| <img width="540" height="420" alt="12-IBM-Data-Science-Professional_Certificate" src="https://github.com/user-attachments/assets/5880d7ae-3492-49b6-b512-10cfc322c4d3" /> |
 
 [Validated Certificate here:](https://www.coursera.org/account/accomplishments/professional-cert/DHP0L76O9OSO) or individual Certificate below:
 
@@ -38,11 +40,11 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [10) Applied Data Science Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/10-Coursera-Applied-Data-Science-Capstone-BUEVSMG74TVQ.pdf)
 
-[11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf)
+[11) Generative AI - Elevating Data Science](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Science%20Professional%20Certificate/11-Coursera_Generative-AI-2RUXZMWNYIP6.pdf) |
 
-## IBM Data Analytics Professional Certificate
+| ## IBM Data Analytics Professional Certificate | Coursera |
 
-<img width="540" height="420" alt="12_Data_Analyst_Professional_Certificate" src="https://github.com/user-attachments/assets/4a55bc48-5f7b-4fbe-9d2f-8285fe1760cb" />
+| <img width="540" height="420" alt="12_Data_Analyst_Professional_Certificate" src="https://github.com/user-attachments/assets/4a55bc48-5f7b-4fbe-9d2f-8285fe1760cb" /> |
 
 [1) Introduction to Data Analytics](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/01-Introduction_to_Data_Analytics_Coursera%2032Z5QVVU2SAS.pdf)
 
@@ -54,10 +56,10 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [9) IBM Data Analyst Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/09_Capstone_Project_Coursera%20PTMIU4BX6WEM.pdf)
 
-[10) Generative AI](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/10_Generative_AI-DataAnalytics_Coursera%20MZTROOLB4YIF.pdf)
+[10) Generative AI](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Data%20Analytics%20Professional%20Certificate/10_Generative_AI-DataAnalytics_Coursera%20MZTROOLB4YIF.pdf) |
 
-## IBM Machine Learning Professional Certificate
-<img width="540" height="420" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
+| ## IBM Machine Learning Professional Certificate | Coursera |
+| <img width="540" height="420" alt="IBM_Machine_Learning_Professional_Certificate" src="https://github.com/user-attachments/assets/37803b34-e9a0-4f56-b48f-b8a50e4b16e8" />
 
 [1) Exploratory Data Analysis for Machine Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/01-EDA-for-ML-Coursera%20Z43XI7XH3PI4.pdf)
 
@@ -69,7 +71,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [5) Deep Learning and Reinforcement Learning](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/05-DeepLearning_ReinforcementLearning_Coursera%20O70O7K3WUE2Z.pdf)
 
-[6) Machine Learning Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/06-Capstone-Project-Coursera%20VXP4INLGZ2PD.pdf)
+[6) Machine Learning Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/06-Capstone-Project-Coursera%20VXP4INLGZ2PD.pdf) |
 
 
 ## Certification from Udemy
