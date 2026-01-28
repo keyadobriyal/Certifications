@@ -6,9 +6,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 | --- | --- |
 | ## Michigan University - Statistics with Python Specialization | Coursera |
 
-| <img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" /> | 
-
-[1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
+| <img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" /> | [1) Understanding and Visualizing Data](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/01-Understanding-and-visualizing-data-with-python-N9MF7N3HIXUY.pdf) 
 
 [2) Inferential Statistical Analysis using Python](https://github.com/keyadobriyal/Certifications/blob/main/University%20Of%20Michigan%20-%20Statistics%20with%20Python/02-Inferential-Statistical-Analysis-using-Python-YMTJYQORGUI4.pdf)
 
