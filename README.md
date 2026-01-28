@@ -2,7 +2,6 @@
 ***Skill Development Certificates***
 Certifications acquired during Bachelors of Engineering - Computer Science: with honors in Data Science
 
-| --- | --- |
 | Certification | Learning Partner |
 | --- | --- |
 | ## Michigan University - Statistics with Python Specialization | Coursera |
