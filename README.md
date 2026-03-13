@@ -6,8 +6,7 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 ![AWS-Graduate_Certification](https://github.com/user-attachments/assets/3ed26ba2-b08b-4a14-b2fb-841f5cac3d49)
 
-[AWS Graduate Certification - Cloud Foundation]
-(https://github.com/keyadobriyal/Certifications/blob/main/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260312-33-tldu91.pdf)
+[AWS Graduate Certification - Cloud Foundation](https://github.com/keyadobriyal/Certifications/blob/main/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260312-33-tldu91.pdf)
 
  ## Michigan University - Statistics with Python Specialization - Coursera 
 
