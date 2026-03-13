@@ -2,6 +2,13 @@
 ***Skill Development Certificates***
 Certifications acquired during Bachelors of Engineering - Computer Science: with honors in Data Science
 
+## AWS Academy
+
+![AWS-Graduate_Certification](https://github.com/user-attachments/assets/3ed26ba2-b08b-4a14-b2fb-841f5cac3d49)
+
+[AWS Graduate Certification - Cloud Foundation]
+(https://github.com/keyadobriyal/Certifications/blob/main/AWS_Academy_Graduate___Cloud_Foundations___Training_Badge_Badge20260312-33-tldu91.pdf)
+
  ## Michigan University - Statistics with Python Specialization - Coursera 
 
 <img width="540" height="420" alt="statistics-with-python-michigan-university" src="https://github.com/user-attachments/assets/c6166770-746f-405c-b84e-444e0cb02173" />
