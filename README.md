@@ -85,3 +85,5 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 [2) Data Science with Quantum COmputing](https://github.com/keyadobriyal/Certifications/blob/main/UC-Data%20Science%20with%20Quantum%20Computing-33f9263b-4b22-44d3-af7f-b32276ec791b.pdf)
 
 [3) Machine Learning A-Z - AI, Python and R](https://github.com/keyadobriyal/Certifications/blob/main/UC-ML%20AI%2C%20Python%20and%20R-e717c0d5-3044-46bb-9dfa-4f49975d3305.pdf)
+
+Currently I am upskilling "R Programming" thorugh IBM Professional in R
