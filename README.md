@@ -77,6 +77,9 @@ Certifications acquired during Bachelors of Engineering - Computer Science: with
 
 [6) Machine Learning Capstone Project](https://github.com/keyadobriyal/Certifications/blob/main/IBM%20-%20Machine%20Learning%20Professional%20Certificate/06-Capstone-Project-Coursera%20VXP4INLGZ2PD.pdf) 
 
+## IBM Deep Learning - Neural Network with Keras - Coursera
+<img width="540" height="420" alt="IBM Deep Learning - Neural Network with Keras" src="https://github.com/user-attachments/assets/dfa82d80-d62f-4146-a147-39cd996fd39a" />
+
 
 ## Certification from Udemy
 
